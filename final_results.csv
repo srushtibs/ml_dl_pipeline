@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1 Score,Dataset,Model_Type,Type
+Logistic Regression,0.0,0.0,0.0,0.0,IMDB,Classical ML,
+Random Forest,0.5,0.25,0.5,0.3333333333333333,IMDB,Classical ML,
+SVM (Linear Kernel),0.0,0.0,0.0,0.0,IMDB,Classical ML,
+RNN (IMDB),0.599,0.9397590361445785,0.1645569620253164,0.2800718132854578,IMDB,Deep Learning,
+CNN (CIFAR-10),0.5331,0.5394456650877233,0.5330999999999999,0.5321346406404983,CIFAR-10,Deep Learning,Deep Learning
